@@ -11,6 +11,8 @@
     height: 674px;
     border-radius: 33.185px;
     padding: 39px 71px;
+    margin: 0 auto;
+    margin-bottom: 60px;
 }
 
 #text {
@@ -28,6 +30,7 @@
     padding: 40px 32px;
     margin: 0 auto;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 
@@ -55,12 +58,71 @@
 }
 
 #care {
-color: #535862;
-font-size: var(--Font-size-text-sm, 14px);
-max-width: 345px;
-width: 100%;
-height: 20px;
-margin-top: 8px;
-margin:0 auto;
-text-align: left;
+    color: #535862;
+    font-size: var(--Font-size-text-sm, 14px);
+    max-width: 345px;
+    width: 100%;
+    height: 20px;
+    margin-top: 8px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#grdzeli {
+    border-radius: 24px;
+    background: #EBF8FE;
+    width: 546px;
+    padding: 40px 32px;
+    align-items: flex-start;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+#Submit {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+#jandaba {
+    color: #6D5F8B;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    padding: 8px 16px;
+    margin-top: 8px;
+}
+
+#paragrafi {
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+#reccoment {
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+#frameworks {
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#radio {
+    color: #6D5F8B;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#C {
+    color: #6D5F8B;
+    font-size: 14px;
+    font-weight: 400;
 }
